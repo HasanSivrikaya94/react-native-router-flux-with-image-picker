@@ -34,6 +34,9 @@ export default class img extends Component {
             }
         });
     };
+
+
+    
     render() {
         return (
             <View style={style.background}>
